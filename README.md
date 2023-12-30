@@ -7,5 +7,5 @@ The `darthtools` package from the DARTH group was used for this study. The GitHu
 Another package from DARTH that was used in this study is the `dampack` package. It's GitHub site is [here](https://github.com/DARTH-git/dampack/tree/master/R).
 
 ## Acknowledgements
-The DARTH group has creates a number of functions for CEA-related work. I have taken a few of their workshops, and I have used their codes to build these models. All credit for the development of these packges and vignettes goes to the folks at DARTH. 
+The DARTH group has created a number of functions for CEA-related work. I have taken a few of their workshops, and I have used their codes to build these models. All credit for the development of these packges and vignettes goes to the folks at DARTH. 
 DARTH website: http://darthworkgroup.com/
