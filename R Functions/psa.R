@@ -70,7 +70,7 @@ make_psa_obj <- function(cost, effectiveness, parameters = NULL,
   parnames <- names(parameters)
   
   # define psa as a named list
-  psa_obj <- create_sa(parameters, parnames, effectiveness, strategies,
+  psa_obj <- create_psa(parameters, parnames, effectiveness, strategies,
                        cost, currency, other_outcome)
   
   # give classes "psa" and "sa"
